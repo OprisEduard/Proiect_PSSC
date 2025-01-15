@@ -1,0 +1,6 @@
+@PSSC_Project.Domain_HostAddress = http://localhost:5286
+
+GET {{PSSC_Project.Domain_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
